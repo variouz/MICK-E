@@ -1,4 +1,8 @@
 @echo off
+echo.
+echo    Please make sure to run the file as administrator.
+echo.
+timeout /t 10 
 :start
 echo    _______________________________________________________________________
 echo.
