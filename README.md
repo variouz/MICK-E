@@ -2,7 +2,7 @@
 ### Simple DDoSing program made in batch and Python (v1: batch, v2: Python)
 ## 🌌 Dependencies
 - Python
-- PyPI (PIP)
+- PyPI (PIP) [comes with Python on Windows, doesn't come with on Linux. not sure about macOS]
 ## 📖 Creators
 - variouz
 - me again
