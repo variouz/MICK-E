@@ -5,7 +5,7 @@
 - PyPI (PIP) [comes with Python on Windows, doesn't come with on Linux. not sure about macOS]
 ## 📖 Creators
 - variouz
-- me again
+  (https://github.com/variouz & https://variouz.github.io)
 ## 🌐 Site
 - Program page: https://variouz.github.io/MICK-E
 - Main page: https://variouz.github.io
